@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">飲料訂購系統</string>
+    <string-array name="array">
+        <item>迷克夏</item>
+        <item>可不可</item>
+        <item>清心福全</item>
+    </string-array>
+    <string-array name="array0b">
+        <item>龜山中興店</item>
+        <item>桃園長庚店</item>
+        <item>新北林口店</item>
+    </string-array>
+    <string-array name="array1b">
+        <item>林口長庚店</item>
+        <item>龜山中興店</item>
+    </string-array>
+    <string-array name="array2b">
+        <item>文化店</item>
+        <item>林口復興店</item>
+        <item>大崗店</item>
+    </string-array>
+    <string-array name="array0d">
+        <item>伯爵紅茶拿鐵 55元</item>
+        <item>原鄉冬瓜茶 30元</item>
+        <item>焙香決明大麥 25元</item>
+    </string-array>
+    <string-array name="array1d">
+        <item>熟成紅茶 35元</item>
+        <item>春芽綠茶 35元</item>
+        <item>春梅冰茶 50元</item>
+        <item>冷露歐蕾 55元</item>
+    </string-array>
+    <string-array name="array2d">
+        <item>烏龍綠茶 30元</item>
+        <item>特級綠茶 30元</item>
+        <item>特選普洱 30元</item>
+        <item>原鄉四季 30元</item>
+        <item>珍珠奶茶 50元</item>
+        <item>多多綠茶 45元</item>
+    </string-array>
+</resources>
